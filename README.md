@@ -10,7 +10,7 @@
     yarn init -y
     ```
 
-### 🚅 React 설치
+### 🚝 React 설치
  - React 설치
 
     ```bash
@@ -38,14 +38,14 @@
 
 React 17 이후 버젼부터는 "runtime": "automatic" 옵션을 추가해야 한다.
 
-### 🚅 Rollup 설치
+### ✅ Rollup 설치
  - Rollup 설치
 
     ```bash
     yarn add rollup
     ```
 
-### 🚅 Rollup 플러그인 설치
+### 🔌 Rollup 플러그인 설치
  - Rollup 플러그인 설치
 
     ```bash
@@ -66,7 +66,7 @@ React 17 이후 버젼부터는 "runtime": "automatic" 옵션을 추가해야 �
     └── rollup-plugin-livereload - 변경사항이 있으면 새로고침. 위 플러그인이 리로드 기능이 없어서 이를 보완하기 위해 설치
     ```
 
-### 📦 rollup.config.js 생성
+### 🎊 rollup.config.js 생성
 - 최대한 웹팩과 비슷하게 구성하려고 노력했다.
 
     ```bash
@@ -147,7 +147,7 @@ React 17 이후 버젼부터는 "runtime": "automatic" 옵션을 추가해야 �
     yarn add web-vitals
     ```
 
-### ➕ package.json에 scripts 추가
+### :tada: package.json에 scripts 추가
  - package.json에 scripts 추가
 
     ```bash
